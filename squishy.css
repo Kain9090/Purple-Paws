@@ -1,8 +1,29 @@
-.container {
-	display: grid;
-	color: purple;
+body {
+	padding: 0px;
+	margin: 0px;
 }
 
-.item1 {
-	border: 2px solid black;
+.grid-container {
+	display: grid;
+	grid-template-rows: auto;
 }
+
+.grid-item {
+	background-color: purple;
+	border: 2px solid black;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: silver;
+}
+
+li {
+	float: left;
+	padding: 14px 16px;
+}
+
