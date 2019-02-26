@@ -1,0 +1,19 @@
+{
+  "name": "purple-paws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cupcake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kain9090/Purple-Paws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kain9090/Purple-Paws/issues"
+  },
+  "homepage": "https://github.com/Kain9090/Purple-Paws#readme"
+}
