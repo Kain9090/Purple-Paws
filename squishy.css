@@ -5,7 +5,8 @@ body {
 
 .grid-container {
 	display: grid;
-	grid-template-rows: auto auto auto auto;
+	grid-template-rows: auto 30vw 10vw 2vw;
+    grid-gap: 1em;
 }
 
 .grid-item {
@@ -35,5 +36,12 @@ li {
 
 #cover {
 	background: linear-gradient( to right, purple, red );
-	
+}
+
+#navbar {
+	grid-column: 100%;
+}
+
+#contacts {
+	align-content: center;
 }
