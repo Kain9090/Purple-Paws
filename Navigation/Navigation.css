@@ -1,0 +1,22 @@
+ul {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	background-color: silver;
+	list-style-type: none;
+}
+
+li {
+	float: left;
+	padding: 14px 16px;
+	font-family: fantasy;
+	font-size: 25px;
+}
+
+#home{
+	float: right;
+}
+
+#navbar {
+	grid-column: 100%;
+}
