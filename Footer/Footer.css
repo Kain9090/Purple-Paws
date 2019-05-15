@@ -1,8 +1,16 @@
 /*Footer*/
 
 footer {
-    text-align: center;
+    text-align: left;
     list-style: none;
     text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.links {
+	list-style: none;
 }
 
